@@ -1,10 +1,13 @@
 
-This Text Adventure Game Is similar to Temple Run as far as how to play it (Win / Loose) with a little twist to it. 
-This game has no graphics!
-
+This text adventure game Is similar to Temple Run, with a little twist to it. 
 This is a simple game devloped in python.
-It has been a great adventure programming the game!
 
-Utilized while loops, control statements (if/else), passing in parameters,
-returning from functions, shallow and deep copies of lists, and algorithmic thinking.
+Here are the main things i learnt while developing this game:
+
+Algorithmic thinking.
+shallow and deep copies of lists
+control statements
+Function returns
+passing in parameters
+
 
